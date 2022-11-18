@@ -7,4 +7,4 @@ Shape details of the dataset:
 Number of Instances: 45211 & Number of Attributes: 16 + output attribute.
 
 
-link for dataset and its detailed description----> https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
+link for dataset and its detailed description---> https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
